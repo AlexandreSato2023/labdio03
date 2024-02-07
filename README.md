@@ -15,27 +15,26 @@ Este laboratório tem como objetivo utilizar os recursos do Azure de IA para ext
 
 Fonte: https://learn.microsoft.com/pt-br/azure
 
+### Computer Vision Azure
+Para realizar os testes desse repositório é necessário ter uma conta no Microsoft Azure e acessar o Vision Studio.
+Segue o link com o passo a passo:
+https://learn.microsoft.com/pt-br/azure/ai-services/computer-vision/overview-vision-studio
+
 ### Dados de Análise:
 
 Uma análise detalhada será realizada em uma imagem de um cachorro, visando identificar suas diferentes partes. Para isso, será empregado o recurso "Add Dense Captions to Images". 
 Além disso, será examinada uma imagem publicitária com o objetivo de extrair o texto presente, utilizando a funcionalidade do Azure denominada "Extract Text From Image". 
 Será também efetuada a visualização da separação dos tipos de conteúdo presentes na imagem, por meio da ferramenta "Extract Common Tags from Images"
 
-## Add Dense Captions to Images
+### Add Dense Captions to Images
 
 Imagem de um cachorro com as areas identificadas, como a grama e destacando o focinho.
 
 ![alt text](https://github.com/AlexandreSato2023/labdio03/blob/main/output/dog_analise.jpg?raw=true)
 
-## Extract Text From Image / Extract Common Tags from Images
+### Extract Text From Image / Extract Common Tags from Images
 
-Segue duas imagens, na primeira temos o texto que foi extraído da imagem utilizando o recurso "" e logo em seguida, a imagem com as TAGs comuns extraídas.
+Segue duas imagens, na primeira temos o texto que foi extraído da imagem utilizando o recurso "Extract Text From Image" e logo em seguida, a imagem com as TAGs comuns extraídas, utilizando o recurso "Extract Common Tags from Images".
 
 ![alt text](https://github.com/AlexandreSato2023/labdio03/blob/main/output/promo_analise2.png?raw=true)
 ![alt text](https://github.com/AlexandreSato2023/labdio03/blob/main/output/promo_analise1.png?raw=true)
-
-
-
-
-
-
