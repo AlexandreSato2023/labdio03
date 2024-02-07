@@ -23,6 +23,19 @@ Será também efetuada a visualização da separação dos tipos de conteúdo pr
 
 ## Add Dense Captions to Images
 
+Imagem de um cachorro com as areas identificadas, como a grama e destacando o focinho.
+
 ![alt text](https://github.com/AlexandreSato2023/labdio03/blob/main/output/dog_analise.jpg?raw=true)
+
+## Extract Text From Image / Extract Common Tags from Images
+
+Segue duas imagens, na primeira temos o texto que foi extraído da imagem utilizando o recurso "" e logo em seguida, a imagem com as TAGs comuns extraídas.
+
+![alt text](https://github.com/AlexandreSato2023/labdio03/blob/main/output/promo_analise2.png?raw=true)
+![alt text](https://github.com/AlexandreSato2023/labdio03/blob/main/output/promo_analise1.png?raw=true)
+
+
+
+
 
 
