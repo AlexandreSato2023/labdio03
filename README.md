@@ -23,6 +23,6 @@ Será também efetuada a visualização da separação dos tipos de conteúdo pr
 
 ## Add Dense Captions to Images
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/AlexandreSato2023/labdio03/blob/main/output/dog_analise.jpg?raw=true)
 
 
